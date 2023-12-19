@@ -23,8 +23,8 @@ Access the live Tableau dashboard -> [UK Road Accidents Dashboard](https://publi
 ### Key Insights
 This visualization presents the annual cumulative count of accidents in the UK region. Users can apply filters to narrow down results by selecting specific years and accident severity levels. The dashboard facilitates easy comparison of values between consecutive years and displays the number of casualties categorized by vehicle or road type. Additionally, it pinpoints fatalities of different severity levels based on weather conditions and road surfaces, offering a nuanced understanding of the data.
 
-###Contributing
+### Contributing
 Contribute to the project by submitting pull requests or opening issues. Your insights and suggestions are valuable in enhancing the analysis and visualization.
 
-###License
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
